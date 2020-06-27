@@ -8,7 +8,5 @@ Welcome !
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
-   
+
    免费计算机书籍汇总
-   
